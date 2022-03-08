@@ -3,4 +3,4 @@ project(lab3)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(lab3 main.cpp menu/Console.h menu/Console.cpp menu/PrintMenu.h menu/PrintMenu.cpp menu/ReadAndShow.cpp menu/ReadAndShow.h)
+add_executable(lab3 main.cpp menu/Console.h menu/Console.cpp menu/PrintMenu.h menu/PrintMenu.cpp menu/ReadAndShow.cpp menu/ReadAndShow.h problems/PrimeNumbersSequence.h problems/PrimeNumbersSequence.cpp problems/SequenceInterval.h problems/SequenceInterval.cpp tests/Tests.h tests/Tests.cpp)
